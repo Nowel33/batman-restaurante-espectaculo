@@ -1,0 +1,88 @@
+
+
+body{
+	font-family: sans-serif,Times;
+
+}
+
+
+
+.one{
+
+	background: url("../img/batman_background.jpg") no-repeat center / cover;
+	padding: 8em;
+
+
+}
+
+.one1{
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.one3{
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+
+
+.two{
+	padding: 7em;
+	text-transform: uppercase;
+}
+
+.two1{
+	text-transform: none;
+}
+
+
+
+
+
+.three{
+	background: url("../img/catwoman_background.jpg") no-repeat right top / cover;
+	padding: 7em;
+	color: #fff;
+	text-align: center;
+
+}
+
+
+.white{
+	text-transform: uppercase;
+}
+
+.four{
+	background-color: #f2f2f2;
+	padding: 7em;
+	text-transform: uppercase;
+}
+
+.grey{
+	background-color: #dcdcdc;
+    margin: 2em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    text-transform: none;
+}
+
+.p-small{
+	font-size: x-small;
+}
+
+
+footer{
+	background-color: #f2f2f2;
+	padding: 7em;
+
+}
+
+.logobatman{
+	padding-top: 4em;
+}
+
+
+
